@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">Games</string>
+
+    <string name="msg_timeout">O servidor demorou muito para responder.....</string>
+
+    <string name="error_internet">Verifique sua  conexão com a internet.....</string>
+
+    <string name="error_msg">Desculpe, Ocorreu um erro. Tente mais tarde.</string>
+
+    <string name="btn_atualizar">Atualizar....</string>
+
+    <string name="reload">Toque para Atualizar ....</string>
+
+    <string name="msg_unknown">Um erro inesperado ocorreu.....</string>
+
+
+</resources>
